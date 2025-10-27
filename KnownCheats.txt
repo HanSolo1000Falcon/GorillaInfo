@@ -13,5 +13,7 @@
   "ElixirMenu": "Elixir",
   "VioletPaidUser": "Violet Paid",
   "Fusioned": "Fusioned",
-  "EmoteWheel": "Emotes"
+  "EmoteWheel": "Emotes",
+  "Untitles": "Untitled",
+  "MistUser": "Mist",
 }
