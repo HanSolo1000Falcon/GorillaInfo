@@ -14,6 +14,12 @@
   "VioletPaidUser": "Violet Paid",
   "Fusioned": "Fusioned",
   "EmoteWheel": "Emotes",
-  "Untitles": "Untitled",
   "MistUser": "Mist",
+  "Untitled": "Untitled",
+  "void_menu_open": "Void",
+  "dark": "ShibaGT Dark",
+  "oblivionuser": "Oblivion",
+  "eyerock reborn": "EyeRock",
+  "asteroidlite": "Asteroid Lite",
+  "cokecosmetics": "Coke Cosmetx"
 }
