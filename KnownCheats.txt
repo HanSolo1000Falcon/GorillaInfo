@@ -21,5 +21,6 @@
   "oblivionuser": "Oblivion",
   "eyerock reborn": "EyeRock",
   "asteroidlite": "Asteroid Lite",
-  "cokecosmetics": "Coke Cosmetx"
+  "cokecosmetics": "Coke Cosmetx",
+  "ØƦƁƖƬ": "Orbit"
 }
