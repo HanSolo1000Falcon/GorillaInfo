@@ -22,5 +22,6 @@
   "eyerock reborn": "EyeRock",
   "asteroidlite": "Asteroid Lite",
   "cokecosmetics": "Coke Cosmetx",
-  "ØƦƁƖƬ": "Orbit"
+  "ØƦƁƖƬ": "Orbit",
+  "FNgMenu": "Fortnite Gooner Menu"
 }
