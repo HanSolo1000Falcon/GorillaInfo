@@ -11,6 +11,7 @@
   "Violet On Top": "Violet",
   "Vivid": "Vivid",
   "ElixirMenu": "Elixir",
+  "Elixir": "Elixir",
   "VioletPaidUser": "Violet Paid",
   "Fusioned": "Fusioned",
   "EmoteWheel": "Emotes",
