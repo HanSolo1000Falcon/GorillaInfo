@@ -24,5 +24,6 @@
   "asteroidlite": "Asteroid Lite",
   "cokecosmetics": "Coke Cosmetx",
   "ØƦƁƖƬ": "Orbit",
-  "FNgMenu": "Fortnite Gooner Menu"
+  "FNgMenu": "Fortnite Gooner Menu",
+  "y u lookin in here weirdo": "Generic Cheat Menu (unknown name)
 }
