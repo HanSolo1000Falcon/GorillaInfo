@@ -31,6 +31,7 @@
   "CustomMaterial": "Custom Cosmetics",
   "cheese is gouda": "WhoIsThatMonke",
   "WhoIsThatMonke": "WhoIsThatMonke Recode",
+  "WhoIsThatMonke Version": "WhoIsThatMonke",
   "GorillaNametags": "GNametags",
   "DeeTags": "Dee Tags",
   "Boy Do I Love Information": "BDILI",
