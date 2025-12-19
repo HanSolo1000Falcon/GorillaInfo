@@ -25,5 +25,6 @@
   "cokecosmetics": "Coke Cosmetx",
   "ØƦƁƖƬ": "Orbit",
   "FNgMenu": "Fortnite Gooner Menu",
-  "y u lookin in here weirdo": "Malachi Menu Reborn"
+  "y u lookin in here weirdo": "Malachi Menu Reborn",
+  "Atlas": "Atlas"
 }
