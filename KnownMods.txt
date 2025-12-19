@@ -55,4 +55,5 @@
   "gorillastats": "Gorilla Stats",
   "monkehavocversion": "Monke Havoc",
   "silliness": "Silliness",
+  "BoyDoILoveInformation Public": "BDILI",
 }
