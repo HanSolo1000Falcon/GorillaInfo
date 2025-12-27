@@ -9,7 +9,6 @@
   "cronos": "Cronos",
   "ORBIT": "Orbit (Weeb)",
   "Violet On Top": "Violet",
-  "Vivid": "Vivid",
   "ElixirMenu": "Elixir",
   "Elixir": "Elixir",
   "VioletPaidUser": "Violet Paid",
