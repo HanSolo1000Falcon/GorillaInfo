@@ -27,6 +27,7 @@
   "Body Tracking": "Body Tracking",
   "GorillaWatch": "GWatch",
   "InfoWatch": "Info Watch",
+  "Vivid": "Vivid",
   "BananaPhone": "Banana Phone",
   "CustomMaterial": "Custom Cosmetics",
   "cheese is gouda": "WhoIsThatMonke",
