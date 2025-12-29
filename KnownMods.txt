@@ -13,6 +13,7 @@
   "FPS-Nametags for Zlothy": "FPS Nametags",
   "ChainedTogetherActive": "Chained Together",
   "GPronouns": "GPronouns",
+  "Fusioned": "Fusioned",
   "CSVersion": "Custom Skin",
   "github.com/ZlothY29IQ/Zloth-RecRoomRig": "Zlothy Body Estimation",
   "ShirtProperties": "GShirts Old",
