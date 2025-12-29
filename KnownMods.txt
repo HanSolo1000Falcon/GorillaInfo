@@ -59,4 +59,5 @@
   "silliness": "Silliness",
   "BoyDoILoveInformation Public": "BDILI",
   "DTAOI": "DTAOI",
+  "GorillaShop": "Gorilla Shop",
 }
