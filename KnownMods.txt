@@ -60,4 +60,5 @@
   "BoyDoILoveInformation Public": "BDILI",
   "DTAOI": "DTAOI",
   "GorillaShop": "Gorilla Shop",
+  "DTASLOI": "DTASLOI",
 }
