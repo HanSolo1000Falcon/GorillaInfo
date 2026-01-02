@@ -27,5 +27,5 @@
   "Atlas": "Atlas",
   "Euphoric": "Euphoria",
   "CurrentEmote": "Vortex Emotes",
-  "Explicit": "Explicit Menu"
+  "Explicit": "Explicit Menu",
 }
