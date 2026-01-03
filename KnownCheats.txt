@@ -1,7 +1,7 @@
 {
   "ObsidianMC": "Obsidian",
   "genesis": "Genesis",
-  "elux": "Elux",
+  "Explicit": "Explicit", //elux doesnt exist anymore, that was my menu that i discontinued abt 6 months ago
   "VioletFreeUser": "Violet Free",
   "Hidden Menu": "Hidden",
   "void": "Void",
