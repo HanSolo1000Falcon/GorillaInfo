@@ -22,7 +22,6 @@
   "asteroidlite": "Asteroid Lite",
   "cokecosmetics": "Coke Cosmetx",
   "ØƦƁƖƬ": "Orbit",
-  "FNgMenuV2": "Fortnite Gooner Menu",
   "y u lookin in here weirdo": "Malachi Menu Reborn",
   "Atlas": "Atlas",
   "Euphoric": "Euphoria",
