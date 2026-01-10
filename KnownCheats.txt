@@ -21,7 +21,7 @@
   "eyerock reborn": "EyeRock",
   "asteroidlite": "Asteroid Lite",
   "cokecosmetics": "Coke Cosmetx",
-  "ØƦƁƖƬ": "Orbit",
+  "ØƦƁƖƬ": "Orbit (Weeb)",
   "y u lookin in here weirdo": "Malachi Menu Reborn",
   "Atlas": "Atlas",
   "Euphoric": "Euphoria",
