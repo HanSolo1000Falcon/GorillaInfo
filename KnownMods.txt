@@ -61,4 +61,5 @@
   "DTAOI": "DTAOI",
   "GorillaShop": "Gorilla Shop",
   "DTASLOI": "DTASLOI",
+  "GorillaChatBox": "Gorilla Chat Box",
 }
