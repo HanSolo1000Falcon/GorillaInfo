@@ -1,8 +1,0 @@
-{
-  "LBAAD.": "Administrator Badge",
-  "LBAAK.": "Moderation Stick",
-  "LBADE.": "Finger Painter Badge",
-  "LBANI.": "Another Axiom Creator Badge",
-  "LBAGS.": "Illustrator Badge",
-  "LMAPY.": "Forest Guide Stick"
-}
